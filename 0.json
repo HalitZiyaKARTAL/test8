@@ -1,0 +1,73 @@
+{
+  "Yemek": {
+    "Çorba": {
+      "Mercimek": {},
+      "Kelle Paça": {},
+      "Yayla": {}
+    },
+    "Sıvı": {
+      "Su": {},
+      "Çay": {},
+      "Meyve Suyu": {}
+    },
+    "Katı": {
+      "Et Yemeği": {},
+      "Pilav": {}
+    },
+    "Tatlı": {
+      "Sütlaç": {},
+      "Baklava": {}
+    }
+  },
+  "Sohbet": {
+    "Selam": {
+      "Merhaba": {},
+      "Günaydın": {}
+    },
+    "Durum": {
+      "Nasılsın?": {},
+      "İyiyim": {}
+    },
+    "Hava": {
+      "Hava nasıl?": {},
+      "Sıcak": {}
+    }
+  },
+  "Sağlık": {
+    "Ağrım Var": {
+      "Başım": {},
+      "Karnım": {},
+      "Dişim": {}
+    },
+    "İhtiyaç": {
+      "İlaç": {},
+      "Su": {},
+      "Tuvalet": {}
+    },
+    "Pozisyon": {
+      "Kaldır": {},
+      "Yatır": {},
+      "Yastığı düzelt": {}
+    },
+    "His": {
+      "İyi değilim": {},
+      "Üşüyorum": {},
+      "Mide bulantım var": {}
+    }
+  },
+  "Talep": {
+    "Eşya": {
+      "Televizyon": {},
+      "Kumanda": {},
+      "Kitap": {}
+    },
+    "Kişi": {
+      "Ailem": {},
+      "Hemşire": {}
+    },
+    "Aktivite": {
+      "Dışarı çıkalım": {},
+      "Müzik dinleyelim": {}
+    }
+  }
+}
