@@ -1,0 +1,134 @@
+{
+  "🚨 ACİL & KRİTİK UYARILAR": {
+    "❗️ HEMEN YARDIM ÇAĞIR": {
+      "Doktoru/Hemşireyi Çağır": {},
+      "Ambulans Çağır (112)": {}
+    },
+    "Tıbbi Acil Durum (Belirtiler)": {
+      "Kalp Krizi Belirtileri Olabilir": {
+        "Şiddetli Göğüs Ağrısı/Baskı": {},
+        "Sol Kola Vuran Ağrı": {},
+        "Nefes Darlığı ve Soğuk Ter": {}
+      },
+      "Felç Belirtileri Olabilir": {
+        "Yüzümün Bir Tarafı Düştü/Uyuştu": {},
+        "Kolumu Kaldıramıyorum": {},
+        "Konuşmam Anlaşılmıyor/Garipleşti": {}
+      },
+      "Nefes Alamıyorum": {
+        "Boğuluyorum Hissi": {},
+        "Hava Açlığı Çekiyorum": {},
+        "Hırıltılı Solunum": {}
+      },
+      "Kanama Var": {
+        "Vücudumda Bir Yer Kanıyor": {},
+        "Ağzımdan/Burnumdan Kan Geliyor": {},
+        "İdrarda/Dışkıda Kan Gördüm": {}
+      },
+      "Şiddetli Alerjik Reaksiyon": {},
+      "Şuurumu Kaybediyorum / Bayılıyorum": {}
+    },
+    "Fiziksel Güvenlik Tehlikesi": {
+      "Yataktan Düşmek Üzereyim": {},
+      "Pozisyonum Çok Kötü, Canım Yanıyor": {},
+      "Ekipmanla İlgili Sorun Var (Serum, Monitör vb.)": {}
+    }
+  },
+  "🩺 VÜCUDUMUN SESİ (Detaylı Fiziksel Durum)": {
+    "Ağrı Günlüğü": {
+      "Ağrının Tam Yeri": {
+        "Kafa Bölgesi": {"Alın": {}, "Şakaklar": {}, "Göz Arkası": {}, "Başımın Tepesi": {}, "Ense Kökü": {}, "Yüzüm": {}, "Çenem": {}},
+        "Gövde Ön Yüz": {"Göğüs Kemiği Üzeri": {}, "Sağ Göğüs": {}, "Sol Göğüs": {}, "Mide Bölgesi (Üst Karın)": {}, "Göbek Çevresi": {}, "Alt Karın": {}, "Kasıklar": {}},
+        "Gövde Arka Yüz": {"Boyun": {}, "Omuzlar": {}, "Kürek Kemikleri Arası": {}, "Sırt (Orta Bölge)": {}, "Bel": {}, "Kalça": {}, "Kuyruk Sokumu": {}},
+        "Kollar": {"Sağ Omuz": {}, "Sol Omuz": {}, "Sağ Pazu/Dirsek": {}, "Sol Pazu/Dirsek": {}, "Sağ Ön Kol/Bilek/El": {}, "Sol Ön Kol/Bilek/El": {}, "Parmaklarım": {}},
+        "Bacaklar": {"Sağ Kalça/Kasık": {}, "Sol Kalça/Kasık": {}, "Sağ Üst Bacak": {}, "Sol Üst Bacak": {}, "Sağ Diz": {}, "Sol Diz": {}, "Sağ Alt Bacak/Bilek/Ayak": {}, "Sol Alt Bacak/Bilek/Ayak": {}, "Ayak Tabanı": {}, "Topuklar": {}}
+      },
+      "Ağrının Karakteri": {"Keskin / Bıçak Saplanır Gibi": {}, "Küt / Baskı Hissi": {}, "Yanıcı / Alev Gibi": {}, "Zonklayıcı / Nabız Gibi Atan": {}, "Sızlayıcı / Kemirici": {}, "Elektrik Çarpması / Şok Gibi": {}, "Kramp / Sıkışma": {}, "Gerilme / Çekilme": {}, "Uyuşma / Hissizlik": {}, "Karıncalanma / İğnelenme": {}},
+      "Ağrının Şiddeti (1/10)": {"1 (Yok Gibi)": {}, "2 (Çok Hafif)": {}, "3 (Hafif)": {}, "4 (Kontrol Edilebilir)": {}, "5 (Orta)": {}, "6 (Rahatsız Edici)": {}, "7 (Şiddetli)": {}, "8 (Çok Şiddetli)": {}, "9 (Ezici)": {}, "10 (Dayanılmaz)": {}},
+      "Ağrının Deseni": {"Sürekli": {}, "Gelip Gidiyor (Dalgalı)": {}, "Sadece Hareket Edince": {}, "Sadece Dokununca": {}, "Geceleri Artıyor": {}, "Sabahları Daha Kötü": {}, "Aniden Başladı": {}}
+    },
+    "Solunum ve Dolaşım": {
+      "Nefes Alışım": {"Normal": {}, "Hızlı ve Yüzeysel": {}, "Yavaş ve Derin": {}, "Zorlanıyorum": {}, "Hırıltılı": {}, "Kesik Kesik": {}, "İç Çekme İhtiyacı": {}},
+      "Kalp Hissiyatı": {"Normal Atıyor": {}, "Çarpıntım Var (Hızlı/Güçlü)": {}, "Tekliyor Gibi Hissediyorum": {}, "Yavaş Atıyor Gibi": {}}
+    },
+    "Sindirim ve Boşaltım": {
+      "Mide/Bağırsak": {"Açlık Hissediyorum": {}, "Tokluk Hissediyorum": {}, "Şişkinlik / Gaz Var": {}, "Mide Yanması / Reflü": {}, "Geğirme İhtiyacı": {}, "Hıçkırık Tuttu": {}, "Kabızlık Hissi": {}, "İshal Durumu": {}},
+      "İdrar": {"İdrara Çıkmam Lazım": {}, "Sık Sık İdrara Çıkıyorum": {}, "Yaparken Yanma Var": {}, "Rengi Çok Koyu": {}, "Rengi Çok Açık": {}}
+    },
+    "Cilt Durumu": {
+      "Genel": {"Normal": {}, "Çok Kuru / Gergin": {}, "Çok Yağlı": {}, "Solgun Görünüyor": {}, "Sararmış Gibi": {}},
+      "Sorunlu Bölge": {"Kızarıklık Var": {}, "Döküntü / Sivilce": {}, "Kaşıntı": {}, "Morarma": {}, "Yara / Çizik": {}, "Su Toplaması": {}, "Yatak Yarası Oluşuyor (Bası Ülseri)": {}}
+    },
+    "Diğer Fiziksel Hissiyatlar": {"Üşüyorum": {}, "Titriyorum": {}, "Sıcak Bastı / Ateşli Hissediyorum": {}, "Soğuk Ter Döküyorum": {}, "Başım Dönüyor": {}, "Gözlerim Kararıyor": {}, "Dengesiz Hissediyorum": {}, "Halsizim / Hiç Enerjim Yok": {}, "Aşırı Uykuluyum": {}, "Kulaklarım Çınlıyor": {}, "Ağzımda Metalik Tat Var": {}, "Kaslarım Seğiriyor": {}}
+  },
+  "🧘 KONFOR & POZİSYON YÖNETİMİ": {
+    "Vücut Pozisyonu": {
+      "Lütfen Pozisyonumu Değiştir": {"Sırtüstü Yatır": {}, "Yüzüstü Yatır (Mümkünse)": {}, "Sağ Tarafıma Dönder": {}, "Sol Tarafıma Dönder": {}},
+      "Baş ve Boyun": {"Başımı Yükselt": {}, "Başımı Alçalt": {}, "Başımı Sağa/Sola Çevir": {}, "Boynumun Altını Destekle": {}},
+      "Sırt ve Bel": {"Belimi Bir Yastıkla Destekle": {}, "Beni Daha Dik Oturur Hale Getir": {}, "Sırtımı Biraz Düzelt": {}},
+      "Kollar ve Eller": {"Kollarımı Vücuduma Yaklaştır": {}, "Kollarımı Yana Koy": {}, "Ellerimin Altına Yastık Koy": {}},
+      "Bacaklar ve Ayaklar": {"Bacaklarımı Uzat": {}, "Dizlerimin Altını Destekle": {}, "Dizlerimi Bük": {}, "Bacaklarımın Arasına Yastık Koy": {}, "Ayaklarımın Altını Destekle (Düşmesini Engelle)": {}, "Çoraplarımı Çıkar/Giy": {}}
+    },
+    "Yatak ve Çarşaflar": {"Çarşaf Kırışık, Düzeltir Misin?": {}, "Yastığım Çok Sert/Yumuşak/Alçak/Yüksek": {}, "Yastığımı Kabart/Düzelt": {}, "Üzerimdeki Örtü Çok Ağır/Hafif": {}, "Üzerimi Ört": {}, "Üzerimi Biraz Aç": {}, "Ayaklarım Örtünün Dışında Kalsın": {}},
+    "Giysiler": {"Giysim Çok Sıkı/Dar": {}, "Giysim Beni Rahatsız Ediyor/Batıyor": {}, "Giysim Islak/Nemli": {}, "Giysim Beni Terletiyor": {}, "Yakmamı Düzeltir Misin?": {}}
+  },
+  "🍽️ BESLENME & SIVI (Ayrıntılı Menü)": {
+    "İsteğim Nedir?": {
+      "Sadece Sıvı": {"Su (Soğuk)": {}, "Su (Oda Sıcaklığı)": {}, "Taze Sıkılmış Meyve Suyu": {}, "Hazır Meyve Suyu": {}, "Ayran": {}, "Süt (Soğuk)": {}, "Limonata": {}},
+      "Sıcak İçecekler": {"Çay (Açık)": {}, "Çay (Demli)": {}, "Ihlamur": {}, "Adaçayı": {}, "Nane-Limon": {}, "Sıcak Süt": {}, "Sıcak Çikolata": {}, "Kahve": {}},
+      "Çorbalar": {"Mercimek": {}, "Ezogelin": {}, "Yayla": {}, "Tarhana": {}, "Domates": {}, "Tavuk Suyu": {}, "Sebze Çorbası": {}, "Kremalı Mantar": {}},
+      "Kahvaltılıklar": {"Haşlanmış Yumurta": {}, "Peynir (Beyaz/Kaşar)": {}, "Zeytin": {}, "Domates/Salatalık": {}, "Reçel/Bal": {}, "Tost": {}, "Yulaf Ezmesi": {}},
+      "Ana Yemekler": {"Sebze Yemeği (Püre)": {}, "Etli Sebze Yemeği": {}, "Haşlanmış Et/Tavuk": {}, "Izgara Köfte": {}, "Pilav": {}, "Makarna": {}, "Yoğurtlu Bir Şeyler": {}},
+      "Atıştırmalık & Tatlı": {"Meyve (Elma/Muz/Portakal)": {}, "Yoğurt": {}, "Puding": {}, "Sütlaç": {}, "Bisküvi / Kraker": {}, "Kek": {}, "Dondurma": {}}
+    },
+    "Lezzet ve Kıvam Tercihi": {
+      "Tat": {"Tatlı Bir Şey": {}, "Tuzlu Bir Şey": {}, "Ekşi Bir Şey": {}, "Acı Bir Şey": {}, "Tatsız/Nötr Bir Şey": {}},
+      "Kıvam": {"Sıvı/Akışkan": {}, "Püre Halinde": {}, "Yumuşak ve Kolay Çiğnenir": {}, "Çiğnenebilir": {}, "Çıtır Çıtır": {}},
+      "Sıcaklık": {"Çok Sıcak": {}, "Sıcak": {}, "Ilık": {}, "Soğuk": {}, "Buz Gibi": {}}
+    },
+    "Yemek Sırasındaki Geri Bildirim": {"Acıktım": {}, "Susadım": {}, "Çok Lezzetli, Teşekkürler": {}, "Tadını Beğenmedim": {}, "Doydum": {}, "Daha Fazla Yiyemeyeceğim": {}, "Bu Çok Tuzlu/Şekerli/Yağlı": {}, "Yutmakta Zorlanıyorum": {}, "Alerjim Var": {}, "Midemi Rahatsız Etti": {}, "İlaç İçin Su Lütfen": {}}
+  },
+  "🧠 ZİHİN & DUYGU DÜNYAM": {
+    "Temel Duygular": {"Mutluyum": {}, "Üzgünüm": {}, "Kızgınım": {}, "Korkuyorum": {}, "Şaşırdım": {}, "Heyecanlıyım": {}, "Sakinim / Huzurluyum": {}},
+    "Karmaşık Duygular ve Haller": {"Minnettarım": {}, "Hayal Kırıklığına Uğradım": {}, "Kendimi Yalnız Hissediyorum": {}, "Kendimi Yük Gibi Hissediyorum": {}, "Umutluyum": {}, "Umutsuzum": {}, "Suçluluk Duyuyorum": {}, "Gururluyum": {}, "Kıskanıyorum": {}, "Canım Sıkkın / Bunalıyorum": {}, "Kafam Karışık": {}, "Dalgınım": {}, "Nostaljik Hissediyorum": {}},
+    "Düşüncelerim ve Zihinsel Süreçler": {"Bir Konu Hakkında Derin Düşünüyorum": {}, "Bir Şeyi Hatırlamaya Çalışıyorum": {}, "Bir Şeyden Endişeleniyorum": {}, "Gelecek İçin Plan Yapıyorum": {}, "Bir Karar Vermeye Çalışıyorum": {}, "Sadece Zihnimi Dinlendiriyorum": {}, "İçimden Konuşuyorum": {}},
+    "Hafıza ve Anılar": {
+      "Anıları Konuşalım": {"Çocukluğumu": {}, "Okul Yıllarımı": {}, "Gençliğimi": {}, "İş Hayatımı": {}, "Evliliğimi/İlişkimi": {}, "Çocuklarımın Doğumunu": {}, "Özel Bir Tatili": {}, "Komik Bir Anıyı": {}, "Zor Bir Zamanı": {}},
+      "Anıları Canlandırma": {"Eski Fotoğraf Albümlerine Bakalım Mı?": {}, "Eski Mektupları Okuyalım Mı?": {}, "Sevdiğim Bir Filmi/Müziği Hatırlatır Mısın?": {}, "Bana [Olay] anını tekrar anlatır mısın?": {}}
+    },
+    "Rüyalar": {"Güzel Bir Rüya Gördüm, Anlatmak İstiyorum": {}, "Kabus Gördüm, Çok Etkilendim": {}, "Garip Bir Rüya Gördüm": {}, "Sürekli Aynı Rüyayı Görüyorum": {}, "Rüyamda [Kişi/Yer] vardı": {}}
+  },
+  "💬 İLETİŞİM & SOSYAL İLİŞKİLER": {
+    "Temel Yanıtlar": {"Evet": {}, "Hayır": {}, "Lütfen": {}, "Teşekkür Ederim": {}, "Özür Dilerim": {}, "Bilmiyorum": {}, "Belki": {}, "Anlamadım": {}, "Tekrar Eder Misin?": {}, "Lütfen Daha Yavaş Konuş": {}, "Lütfen Daha Yüksek Sesle Konuş": {}},
+    "Sohbet": {
+      "Sohbet Başlatma": {"Merhaba": {}, "Günaydın": {}, "İyi Akşamlar": {}, "Nasılsın?": {}, "Günün Nasıl Geçiyor?": {}, "Biraz Sohbet Edelim Mi?": {}},
+      "Soru Sorma": {"Bugün Günlerden Ne?": {}, "Saat Kaç?": {}, "Hava Nasıl?": {}, "Yemekte Ne Var?": {}, "Bugünün Planı Ne?": {}, "Doktor/Hemşire Ne Dedi?": {}, "Neden Buradayız?": {}, "Bu Ses Nedir?": {}},
+      "Dinleme İsteği": {"Bana Gününü Anlat": {}, "Bana Haberleri Oku": {}, "Bana Bir Şeyler Anlat (Hikaye, Fıkra vb.)": {}, "Sadece Konuş, Seni Dinlemek İstiyorum": {}}
+    },
+    "İnsanlar": {
+      "İletişim Kurma Talebi": {"[İsim]'i Telefonla Arayalım": {}, "[İsim] ile Görüntülü Konuşalım": {}, "[İsim]'e Mesaj Yazalım": {}, "[İsim]'e Mektup Yazalım": {}},
+      "Görüşme Talebi": {"[İsim]'i Görmek İstiyorum": {}, "Ailemi Görmek İstiyorum": {}, "Çocukları/Torunları Görmek İstiyorum": {}, "Bugün Ziyaretçi Kabul Etmek İstemiyorum": {}, "Yalnız Kalmak İstiyorum": {}, "Sadece Yanımda Durman Yeterli": {}}
+    }
+  },
+  "🎬 AKTİVİTE & ÇEVRE KONTROLÜ": {
+    "Aktivite İstekleri": {
+      "Dinlemek": {"Müzik (Klasik/Sanat/Pop/Halk)": {}, "Radyo (Haber/Müzik)": {}, "Sesli Kitap": {}, "Podcast": {}, "Doğa Sesleri (Yağmur/Dalga)": {}, "Sessizlik": {}},
+      "İzlemek": {"Televizyon (Haber/Dizi/Film/Spor/Belgesel)": {}, "Tabletten/Telefondan Bir Şeyler İzlemek": {}, "Pencereden Dışarıyı İzlemek": {}},
+      "Okumak/Bakmak": {"Bana Kitap/Gazete/Dergi Oku": {}, "Fotoğraflara Bakalım": {}, "Sadece Tavanı Seyretmek İstiyorum": {}}
+    },
+    "Çevre Kontrolü": {
+      "Işık": {"Işığı Aç": {}, "Işığı Kapat": {}, "Loş Bir Işık Olsun": {}, "Perdeleri/Panjurları Aç": {}, "Perdeleri/Panjurları Kapat": {}},
+      "Hava": {"Pencereyi Aç (Hava Almak İstiyorum)": {}, "Pencereyi Kapat": {}, "Oda Çok Sıcak, Soğutalım": {}, "Oda Çok Soğuk, Isıtalım": {}, "Vantilatör/Klimayı Çalıştır/Kapat": {}},
+      "Ses": {"Televizyonun/Radyonun Sesini Aç/Kıs": {}, "Odadaki Gürültü Beni Rahatsız Ediyor": {}, "Lütfen Kapıyı Kapatır Mısın?": {}, "Kapı Açık Kalsın": {}}
+    }
+  },
+  "✨ MANEVİYAT & İÇ HUZUR": {
+    "Dini ve Manevi Pratikler": {
+      "İslam": {"Dua Etmek İstiyorum": {}, "Bana Kuran Oku Lütfen": {}, "Tesbih Çekmek İstiyorum": {}, "Namaz Vakitlerini Hatırlatır Mısın?": {}},
+      "Hristiyanlık": {"Dua Etmek İstiyorum": {}, "Bana İncil'den Oku Lütfen": {}, "Haçımı/Tesbihimi Verir Misin?": {}},
+      "Diğer İnançlar ve Felsefeler": {"Meditasyon Yapmak İstiyorum": {}, "Manevi Müzikler Dinlemek İstiyorum": {}},
+      "Genel": {"Şükretmek İstiyorum": {}, "Af Dilemek/Bağışlanma İstemek İstiyorum": {}}
+    },
+    "Soyut Düşünceler ve Hisler": {"Huzur Arıyorum": {}, "Hayatın Anlamını Düşünüyorum": {}, "Doğayı Düşünüyorum": {}, "Geçmişimi Düşünüyorum": {}, "Gelecekten Kaygılıyım": {}, "Yalnız Değilim, Bir Güç Yanımda": {}, "Sadece Varlığı Hissetmek İstiyorum": {}}
+  }
+      }
